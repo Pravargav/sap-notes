@@ -25,7 +25,7 @@ Early Feedback via working prototypes
 ----------------------------
 The Six Phases of SAP Activate
 
-Phase	-> Agile Connection |	What Happens
+# Phase	-> Agile Connection |	What Happens
 
 Discover -> 	Pre-Project Vision	| Understand business needs, select deployment (Cloud, On-Premise, Hybrid)
 
