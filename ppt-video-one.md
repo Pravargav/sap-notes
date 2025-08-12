@@ -1,4 +1,4 @@
-## SAP Activate methodology
+# SAP Activate methodology
 
 The SAP Activate methodology is SAP’s official framework for implementing SAP solutions, and it’s explicitly built on Agile methodology but tailored for SAP projects.
 
@@ -25,7 +25,7 @@ Early Feedback via working prototypes
 ----------------------------
 The Six Phases of SAP Activate
 
-# Phase	-> Agile Connection |	What Happens
+### Phase	-> Agile Connection |	What Happens
 
 Discover -> 	Pre-Project Vision	| Understand business needs, select deployment (Cloud, On-Premise, Hybrid)
 
