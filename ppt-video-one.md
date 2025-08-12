@@ -1,4 +1,4 @@
-# SAP Activate methodology
+## SAP Activate methodology
 
 The SAP Activate methodology is SAP’s official framework for implementing SAP solutions, and it’s explicitly built on Agile methodology but tailored for SAP projects.
 
