@@ -76,7 +76,7 @@ So:
  
  → Change           → MM02      
  
- → Display          → MM03 
+ → Display          → MM03 `
  
 
 ## **3. How does it connect with technical tools?**
