@@ -66,7 +66,18 @@ So:
 
 👉 Example navigation in Easy Access:
 
- `SAP Easy Access    → Logistics        → Materials Management            → Material Master                → Material                    → Create (Special) → MM01                    → Change           → MM02                    → Display          → MM03 `  
+ `SAP Easy Access   
+ → Logistics     
+ → Materials Management      
+ → Material Master          
+ → Material   
+ 
+ → Create (Special)  → MM01     
+ 
+ → Change           → MM02      
+ 
+ → Display          → MM03 
+ 
 
 ## **3. How does it connect with technical tools?**
 
