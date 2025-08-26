@@ -4,6 +4,7 @@ Perfect 👍 Let me draw out a **layered SAP architecture diagram** (in text for
  ` ┌───────────────────────────────┐  
  │      SAP User Interface       │ 
  │ (SAP GUI, Fiori, Web, Mobile) │ 
+ 
  └───────────────▲───────────────┘     
  
  │  ┌───────────────┴────────────────┐  
@@ -19,6 +20,7 @@ Perfect 👍 Let me draw out a **layered SAP architecture diagram** (in text for
  │  • PM (Plant Maintenance)       │ 
  │  • QM (Quality Management)      │  
  │  • PS (Project Systems)         │ 
+ 
   └───────────────▲────────────────┘     
   
  │  ┌───────────────┴────────────────┐  
@@ -27,6 +29,7 @@ Perfect 👍 Let me draw out a **layered SAP architecture diagram** (in text for
  │  • SAP BW/BI (Business Warehouse)│  
  │  • SAP SAC (Analytics Cloud)     │  
  │  • Embedded Analytics (S/4HANA)  │ 
+ 
  └───────────────▲────────────────┘   
  
  │  ┌───────────────┴────────────────┐ 
@@ -35,6 +38,7 @@ Perfect 👍 Let me draw out a **layered SAP architecture diagram** (in text for
  │  • SAP PI/PO (Process Integration)│  
  │  • SAP CPI (Cloud Platform Int.)  │ 
  │  • IDocs, RFC, APIs, BAPIs        │ 
+ 
  └───────────────▲────────────────┘   
  
  │  ┌───────────────┴────────────────┐ 
@@ -42,6 +46,7 @@ Perfect 👍 Let me draw out a **layered SAP architecture diagram** (in text for
  │                                 │  
  │  • SAP HANA (in-memory DB)      │  
  │  • Oracle / DB2 / SQL (older)   │  
+ 
  └───────────────▲────────────────┘ 
  
  │  ┌───────────────┴────────────────┐ 
@@ -51,6 +56,7 @@ Perfect 👍 Let me draw out a **layered SAP architecture diagram** (in text for
  │  • Security & Authorizations    │  
  │  • Transport System (CTS)       │ 
  │  • System Runtime Environment   │ 
+ 
  └─────────────────────────────────┘  
 ### 🔑 How to read this:
  
