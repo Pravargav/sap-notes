@@ -51,55 +51,7 @@ Great question 👌 Let’s make this very clear and simple.
  
 👉 Think of it like **mix-and-match dressing** – you choose and style it yourself whenever needed.
   
-## ⚡ Side-by-Side in Simple Words
- 
-  
- 
-Report Type
- 
-Who Provides
- 
-Flexibility
- 
-Example
- 
-Analogy
- 
-   
- 
-**Standard**
- 
-SAP
- 
-Low
- 
-VA05 – List of Sales Orders
- 
-Ready-made shirt
- 
- 
- 
-**Custom**
- 
-Developers
- 
-High
- 
-Top 10 customers by region with discounts
- 
-Tailor-made shirt
- 
- 
- 
-**Ad-hoc**
- 
-Users
- 
-Medium
- 
-Sales by region today (user-built in SAC/WebI)
- 
-Mix-and-matchdressing
+
 
 
 
@@ -117,4 +69,4 @@ The answer is: **Yes, custom reports *can* contain charts and graphs — but onl
  
   - But if the developer uses **ALV with Graphical Display, Fiori Elements, or SAP Analytics tools**, they can add **charts, graphs, and dashboards**.
  
-  -
+  
