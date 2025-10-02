@@ -11,12 +11,7 @@ Got it 👍 You’re asking about **SAP FI module**.
  
 - Ensures compliance with **legal, tax, and accounting standards**.
  
-- Fully integrated with other SAP modules (like MM – Materials Management, SD – Sales & Distribution, and CO – Controlling).
- 
 
-  
-
- 
 
   
 ### ⚙️ Why companies use SAP FI?
@@ -38,8 +33,6 @@ Got it 👍 You’re asking about **SAP FI module**.
 ---------------------------------------------------------------------
 
 
-
-Perfect 👍 You already know about **SAP FI (Financial Accounting)**. Now let’s look at its partner: **SAP CO**.
 
   
 
@@ -164,13 +157,10 @@ For managers and internal decision-making
 
   
 
-✅ **In short:** **SAP CO = Cost & performance management tool inside SAP.** It complements **SAP FI**: FI records transactions, while CO helps analyze and control them.
-
 
 ---------------------------------------------------------
 
 
-Great 👍 You’re exploring the **SAP core modules**. After FI (Financial Accounting) and CO (Controlling), let’s look at **SAP SD**.
   
 ## 🌐 SAP SD (Sales and Distribution) Module
  
@@ -219,7 +209,7 @@ Great 👍 You’re exploring the **SAP core modules**. After FI (Financial Acco
 
 ----------------------------------------------------------------
 
-Perfect 👍 You’re going through the major **SAP modules**. Let’s now look at **SAP MM**.
+
   
 ## 🌐 SAP MM (Materials Management) Module
  
