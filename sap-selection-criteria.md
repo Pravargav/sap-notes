@@ -16,8 +16,7 @@ Yes, you are right 👉 it’s essentially a **filtering/search form** (also cal
 ### 🔎 How the sections are used:
  
  
-1.  
-**Sales Document Data**
+1.  **Sales Document Data**
  
  
   - Filter by sales order type, order number, creation date, material, etc.
@@ -25,8 +24,7 @@ Yes, you are right 👉 it’s essentially a **filtering/search form** (also cal
 
  
  
-2.  
-**Persons Responsible**
+2.  **Persons Responsible**
  
  
   - Filter by sales employee, sales group, or sales office.
@@ -34,8 +32,7 @@ Yes, you are right 👉 it’s essentially a **filtering/search form** (also cal
 
  
  
-3.  
-**Partner**
+3.  **Partner**
  
  
   - Filter by sold-to party, ship-to party, bill-to, or payer.
@@ -43,8 +40,7 @@ Yes, you are right 👉 it’s essentially a **filtering/search form** (also cal
 
  
  
-4.  
-**Organizational Data**
+4.  **Organizational Data**
  
  
   - Filter by sales organization, distribution channel, division.
@@ -52,8 +48,7 @@ Yes, you are right 👉 it’s essentially a **filtering/search form** (also cal
 
  
  
-5.  
-**Selection Criteria**
+5.  **Selection Criteria**
  
  
   - Additional filters like document status, date ranges, or user-specific fields.
