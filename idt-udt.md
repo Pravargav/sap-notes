@@ -35,13 +35,19 @@ To build this universe, you use a **tool** → either **UDT** or **IDT**.
 
 ---
 
-## 🔹 Quick Comparison (Simple Words)
+# ✅ Uses of Connecting Multiple Databases at Once in IDT
 
-| Feature | **UDT (Old)** | **IDT (New)** |
-|-----------------|---------------------------------|-----------------------------------------|
-| Universe type | UNV | UNX |
-| Sources | 1 database only | Multiple databases |
-| Future support | Legacy (phased out) | Recommended (future-proof) |
-| Use case | Older BO systems | Modern BO setups |
+1. **Data Federation**  
+   - Combine data from different databases (Oracle, SQL Server, HANA, etc.) into one semantic layer.  
 
----
+2. **Business View**  
+   - End-users see unified business terms (Customer, Sales, Revenue) without worrying about underlying sources.  
+
+3. **Avoid ETL Dependency**  
+   - No need to move all data into a single warehouse first; queries can run directly across multiple sources.  
+
+4. **Flexibility in Hybrid Environments**  
+   - Useful when companies use heterogeneous systems (SAP + Non-SAP).  
+
+5. **Support for Mergers/Acquisitions**  
+   - Quickly integrate data from newly added systems or databases into reporting.
