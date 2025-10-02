@@ -50,15 +50,7 @@ A **material master** is the core record for anything a company buys, makes, sto
 
  
 
-So:
 
- 
-
- 
-
-- **MM01/MM02** exist in the **Logistics → Materials Management → Material Master** area of SAP GUI Easy Access.
-
- 
 
 
 
@@ -79,42 +71,6 @@ So:
  → Display          → MM03 `
  
 
-## **3. How does it connect with technical tools?**
-
- 
-
-When you run **MM01 / MM02**:
-
- 
-
- 
-
-1. You enter data like material type, unit of measure, purchasing info, valuation class, etc.
-
- 
-
-2. That data gets stored in **HANA database tables** (e.g., MARA, MARC, MBEW, MVKE, etc.).
-
- 
-
-3. Other modules use it: 
-
- 
-
-  - **PP** → uses materials for production.
-
- 
-
-  - **SD** → uses materials for sales orders.
-
- 
-
-  - **FI/CO** → uses valuation class for accounting.
-
- 
-
-  - **WM/EWM** → stores stock at bin/location level.
-
  
 
 
@@ -123,9 +79,6 @@ When you run **MM01 / MM02**:
 
  
 
-4. **SAC or BW** can later analyze material data (e.g., stock aging, sales per material).
-
- 
 
 
 
