@@ -11,7 +11,3 @@
 
 ---
 
-## ✅ Easy Analogy  
-
-- **Distribution = Cutting a cake 🎂 equally or proportionally** among people.  
-- **Allocation = Charging 🍽️ the cost of cake to each department based on who invited more guests.**
