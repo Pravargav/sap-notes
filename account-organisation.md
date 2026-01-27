@@ -80,11 +80,3 @@ Used to **group or break down data** by organizational entities.
 
 ---
 
-## 💡 In Simple Words
-
-| Concept | Meaning | Example |
-|----------|----------|----------|
-| 🧾 **Account Dimension** | **What?** → What metric are we analyzing? | Revenue, Expense, Profit |
-| 🏢 **Organization Dimension** | **Where?** → Where does this data come from? | Department, Region, Business Unit |
-
----
