@@ -1,4 +1,4 @@
-->3. Duplicate Time / Entity Mapping
+-> Duplicate Time / Entity Mapping
 
 If the Time dimension or Entity mapping overlaps, SAC can divide values across overlapping members.
 
