@@ -2,7 +2,7 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-# ✅ What is Data Governance?
+#### ✅ What is Data Governance?
 
 👉 **Definition:**
 
@@ -10,7 +10,7 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-# ✅ Simple Understanding 🧠
+#### ✅ Simple Understanding 🧠
 
 👉 Think:
 
@@ -22,23 +22,23 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-# ✅ Key Components 🔥
+#### ✅ Key Components 🔥
 
-### 1. Data Quality
+##### 1. Data Quality
 
 *   Ensures data is **accurate, complete, consistent**
 *   Example: No duplicate customer records
 
 ***
 
-### 2. Data Security
+##### 2. Data Security
 
 *   Who can access what data
 *   Role-based access (very important in SAP/SAC)
 
 ***
 
-### 3. Data Ownership
+##### 3. Data Ownership
 
 *   Assigning responsibility
 *   Example:
@@ -47,7 +47,7 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-### 4. Data Policies & Rules
+##### 4. Data Policies & Rules
 
 *   Standards for handling data
 *   Example:
@@ -56,13 +56,13 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-### 5. Compliance
+##### 5. Compliance
 
 *   Following regulations (GDPR, etc.)
 
 ***
 
-# ✅ Example (Real Project / SAC 🔥)
+#### ✅ Example (Real Project / SAC 🔥)
 
 👉 In your SAC project:
 
@@ -72,7 +72,7 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-### Example:
+##### Example:
 
 | User          | Access          |
 | ------------- | --------------- |
@@ -83,7 +83,7 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-# ✅ Why is it important?
+#### ✅ Why is it important?
 
 *   ✅ Avoid wrong decisions
 *   ✅ Ensure data trust
@@ -92,37 +92,30 @@ Here’s a **clear, interview-ready explanation of Data Governance** 👇
 
 ***
 
-# ✅ Interview Answer 🎯 (Best Version)
+#### ✅ Interview Answer 🎯 (Best Version)
 
 > “Data Governance is the framework used to manage data quality, security, and access across an organization. It ensures that data is accurate, consistent, and securely accessible to the right users, supporting reliable decision-making.”
 
 ***
 
-# ✅ One-line Memory Trick 🔥
+#### ✅ One-line Memory Trick 🔥
 
 👉 **Right data + Right person + Right time = Data Governance**
 
 ***
 
-# ✅ If interviewer asks deeper:
+#### ✅ If interviewer asks deeper:
 
-### ❓ Example in SAC?
+##### ❓ Example in SAC?
 
 👉 AAM security, role-based access, model-level restrictions
 
 ***
 
-### ❓ Who handles it?
+##### ❓ Who handles it?
 
 👉 Data owners, IT, governance teams
 
 ***
 
-✅ You're now ready to answer this confidently 💯
 
-If you want, I can give:
-
-*   SAP-specific Data Governance (MDG, BW roles)
-*   Scenario-based answers
-
-Just tell me 👍
